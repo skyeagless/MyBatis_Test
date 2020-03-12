@@ -4,7 +4,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/mbp_people?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC&useSSL=false
     username: root
-    password: awpak47m4a1
+    password: *
 
 
 # 配置日志
